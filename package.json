@@ -1,11 +1,12 @@
 {
   "name": "ecommerce",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-connect": "^5.7.0"
+    "gulp-connect": "^5.7.0",
+    "gulp-css-flipper": "^1.0.2",
+    "merge-stream": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -13,5 +14,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedNourElDinMohamed/ecommerce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AhmedNourElDinMohamed/ecommerce/issues"
+  },
+  "homepage": "https://github.com/AhmedNourElDinMohamed/ecommerce#readme",
+  "description": ""
 }
